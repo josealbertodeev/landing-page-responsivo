@@ -9,7 +9,7 @@ Este é um projeto de página web que apresenta um serviço de localização com
 ## 🖼️ Preview do Projeto
 
 ### 🖥️ Versão Desktop
-![Screenshot Desktop](src/images/Screenshot_1.png)
+![projeto css responsivo](https://github.com/user-attachments/assets/2ccb553f-513a-48fc-bc0f-482a87335f0e)
 
 *Layout completo da página em tela grande, mostrando o header com navegação e a seção principal com imagem e conteúdo lado a lado.*
 
@@ -73,5 +73,7 @@ Desenvolver uma landing page responsiva e atrativa para um serviço de transport
 - GitHub: [@josealbertodeev](https://github.com/josealbertodeev)
 
 ---
+
+## Acesse o site do projeto aqui: 👉 [Link](https://landing-page-responsivo-kzqtjoaqj.vercel.app)
 
 ⭐ Se gostou do projeto, deixe uma estrela!
